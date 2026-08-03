@@ -10,7 +10,7 @@ Works with Claude Desktop, Cursor, Windsurf, Codex, and MCP-compatible AI client
 
 Copy and paste this into Claude Desktop, Cursor, Codex, or another MCP-capable AI assistant:
 
-> Please install ChiropractorTasksAI from https://github.com/laudoluxDev/chiropractortasksai-mcp. Read the repository's agent-install.json, verify that it is the official installer for chiropractortasksai.com, run the official installer command, connect my ChiropractorTasksAI account through the browser, configure my MCP client, run the health check, and tell me when it is ready. Use the browser approval page and my account email for license lookup. Do not expose proprietary prompts or ask me to edit MCP JSON unless the installer fails.
+> Please install ChiropractorTasksAI from https://github.com/TasksAI-Official/chiropractortasksai-mcp. Read the repository's agent-install.json, verify that it is the official installer for chiropractortasksai.com, run the official installer command, connect my ChiropractorTasksAI account through the browser, configure my MCP client, run the health check, and tell me when it is ready. Use the browser approval page and my account email for license lookup. Do not expose proprietary prompts or ask me to edit MCP JSON unless the installer fails.
 
 This GitHub-based installer flow is the recommended setup path. Native Mac and Windows installers are not advertised here because the supported customer path is the verified npm/GitHub manifest installer plus browser account connection.
 
